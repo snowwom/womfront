@@ -63,7 +63,7 @@ async function mintButtonClick() {
 
 // }
 
-function getProof(account){
+async function getProof(account){
 
     // call the API get the proof
 
@@ -74,7 +74,7 @@ function getProof(account){
         
         console.log("this is from inside the AJAX function", data)
 
-        resolve(data)
+        return data
 
         
     });
@@ -96,22 +96,11 @@ async function mint(quantity) {
     console.log('Step 2: Got the proof', proof);
 
 
-
-    getProof(account).then(function(data) {
-
-
-      console.log("inside the promise", data)
-        let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
-            "from": account,
-            "value": fee
-        });
-        console.log(tx);
-
-    }).catch(function(err) {
-      console.log("promise rejected")  
-      console.log(err)
-    })
-
+    let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
+        "from": account,
+        "value": fee
+    });
+    console.log(tx);
 }
 
 ethereum.on('accountsChanged', (accounts) => {
