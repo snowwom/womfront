@@ -63,27 +63,37 @@ async function mintButtonClick() {
 
 // }
 
-function getProof(account){
+// function getProof(account){
+
+//     // call the API get the proof
+
+//         $.ajax({
+//             url: "http://worldofmen.xyz:3000/proof?address=" + account,
+//             async: false
+//         }).then(function(data) {
+            
+//             console.log("async:false added. this is from inside the AJAX function", data)
+
+//             return data
+
+            
+//         });
+// }
+
+
+
+async function getProof(account){
 
     // call the API get the proof
 
-    $(document).ready(function() {
-    $.ajax({
-        url: "http://worldofmen.xyz:3000/proof?address=" + account,
-        async: false
-    }).then(function(data) {
-        
-        console.log("async:false added. this is from inside the AJAX function", data)
-
-        return data
-
-        
-    });
-});
-
-
+        var theurl = "http://worldofmen.xyz:3000/proof?address=" + account;
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.open( "GET", theurl, false ); // false for synchronous request
+        xmlHttp.send( null );
+        return xmlHttp.responseText;
 
 }
+
 
 
 async function mint(quantity) {
