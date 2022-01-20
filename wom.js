@@ -86,7 +86,7 @@ async function getProof(account){
 
     // call the API get the proof
 
-        var theurl = "https://worldofmen.xyz:3000/proof?address=" + account;
+        var theurl = "https://api.worldofmen.xyz/proof?address=" + account;
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.open( "GET", theurl, false ); // false for synchronous request
         xmlHttp.send( null );
