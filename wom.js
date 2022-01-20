@@ -69,7 +69,7 @@ async function getProof(account){
 
     $(document).ready(function() {
     $.ajax({
-        url: "http://localhost:3000/proof?address=" + account
+        url: "http://worldofmen.xyz:3000/proof?address=" + account
     }).then(function(data) {
         
         console.log("proof is here", data)
