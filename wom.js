@@ -94,9 +94,11 @@ async function mint(quantity) {
     // calculate the merkele
     proof = getProof(account);
     
-    let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
-        "value": fee
+    console.log(typeof proof)
 
+    let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
+        "from": account,
+        "value": fee
     });
     console.log(tx);
 }
