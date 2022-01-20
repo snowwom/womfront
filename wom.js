@@ -15,19 +15,6 @@ async function getAccount() {
     return account;
 }
 
-function checkwhitelist(address){
-    $.getJSON( "whitelist.json", function( data ) {
-
-        console.log("address is ===", address)
-        if(jQuery.inArray(address, data) != -1){
-            console.log("found");
-        }else{
-            console.log("NOT found");
-        }
-
-
-    });
-}
 
 // Connect to MetaMask
 async function connectWallet() {
@@ -56,29 +43,13 @@ async function mintButtonClick() {
     await mint(quantity);
 }
 
-// async function mintButtonClick(){
-//     let account = await getAccount();
-//     checkwhitelist(account);
-//     console.log("done here");
 
-// }
+async function publicMintButtonClick() {
+    let quantity = $("#mint_amount").val();
+    await pubmint(quantity);
+}
 
-// function getProof(account){
 
-//     // call the API get the proof
-
-//         $.ajax({
-//             url: "http://worldofmen.xyz:3000/proof?address=" + account,
-//             async: false
-//         }).then(function(data) {
-            
-//             console.log("async:false added. this is from inside the AJAX function", data)
-
-//             return data
-
-            
-//         });
-// }
 
 
 
@@ -112,6 +83,29 @@ async function mint(quantity) {
     console.log(typeof proofs)
 
     let tx = await tokenContract.methods.mintWhitelist(proofs, quantity).send({
+        "from": account,
+        "value": fee
+    });
+    console.log(tx);
+}
+
+
+async function pubmint(quantity) {
+    let account = await getAccount();
+    let fee = web3.utils.toBN(69000000000000000).mul(web3.utils.toBN(quantity));
+    console.log(`Step 1: Calling web3 mint(${quantity}), mint fee ${fee}`);
+
+
+    // // calculate the merkele
+    // proof = await getProof(account);
+    // console.log('Step 2: Got the proof', proof);
+    // console.log('Step 3: proof datatype is');
+    // console.log(typeof proof)
+
+    // var proofs = JSON.parse(proof);
+    // console.log(typeof proofs)
+
+    let tx = await tokenContract.methods.mintPublicSale(quantity).send({
         "from": account,
         "value": fee
     });
