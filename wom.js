@@ -63,7 +63,7 @@ async function mintButtonClick() {
 
 // }
 
-function getProof(account){
+async function getProof(account){
 
     // call the API get the proof
 
@@ -88,13 +88,12 @@ function getProof(account){
 async function mint(quantity) {
     let account = await getAccount();
     let fee = web3.utils.toBN(69000000000000000).mul(web3.utils.toBN(quantity));
-    console.log(`Calling web3 mint(${quantity}), mint fee ${fee}`);
+    console.log(`Step 1: Calling web3 mint(${quantity}), mint fee ${fee}`);
 
 
     // calculate the merkele
-    proof = getProof(account);
-    
-    console.log(typeof proof)
+    proof = await getProof(account);
+    console.log('Step 2: Got the proof', proof);
 
     let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
         "from": account,
