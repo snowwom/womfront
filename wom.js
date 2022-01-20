@@ -72,7 +72,7 @@ async function getProof(account){
         url: "http://worldofmen.xyz:3000/proof?address=" + account
     }).then(function(data) {
         
-        console.log("proof is here", data)
+        console.log("this is from inside the AJAX function", data)
 
         return data
 
