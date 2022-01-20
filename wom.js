@@ -105,13 +105,13 @@ async function mint(quantity) {
     // calculate the merkele
     proof = await getProof(account);
     console.log('Step 2: Got the proof', proof);
+    console.log('Step 3: proof datatype is');
+    console.log(typeof proof)
 
-    // getProof(account).then(function(data) {
-    //   // Run this when your request was successful
-    //   console.log("why no promise", data)
-    // })
+    var proofs = JSON.parse(proof);
+    console.log(typeof proofs)
 
-    let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
+    let tx = await tokenContract.methods.mintWhitelist(proofs, quantity).send({
         "from": account,
         "value": fee
     });
