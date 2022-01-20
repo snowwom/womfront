@@ -63,16 +63,17 @@ async function mintButtonClick() {
 
 // }
 
-async function getProof(account){
+function getProof(account){
 
     // call the API get the proof
 
     $(document).ready(function() {
     $.ajax({
-        url: "http://worldofmen.xyz:3000/proof?address=" + account
+        url: "http://worldofmen.xyz:3000/proof?address=" + account,
+        async: false
     }).then(function(data) {
         
-        console.log("this is from inside the AJAX function", data)
+        console.log("async:false added. this is from inside the AJAX function", data)
 
         return data
 
@@ -95,6 +96,10 @@ async function mint(quantity) {
     proof = await getProof(account);
     console.log('Step 2: Got the proof', proof);
 
+    // getProof(account).then(function(data) {
+    //   // Run this when your request was successful
+    //   console.log("why no promise", data)
+    // })
 
     let tx = await tokenContract.methods.mintWhitelist(proof, quantity).send({
         "from": account,
