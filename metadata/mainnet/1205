@@ -1,0 +1,46 @@
+{
+  "name": "Man #1205",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/1206.png",
+  "dna": "8dfb1f736fd083ca96f74faa7888f01706b1c251",
+  "edition": 1206,
+  "date": 1642518611707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orb"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Button Down Shirt"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chad Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Fieri"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Red Wraparounds"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Wool Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

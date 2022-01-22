@@ -1,0 +1,46 @@
+{
+  "name": "Man #9975",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/9976.png",
+  "dna": "d6ba56354c7ed21fa0d2a5af5db843fe8ca09e63",
+  "edition": 9976,
+  "date": 1642519808226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ManMan"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Norris"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radical"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Snake Shades"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

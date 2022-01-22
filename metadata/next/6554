@@ -1,0 +1,46 @@
+{
+  "name": "Man #6554",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/6555.png",
+  "dna": "ee2811935e2ca3afeeeb3dd60af3ca4db6339a1e",
+  "edition": 6555,
+  "date": 1642519180934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orb"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tank Top"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Glorious Mustache"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

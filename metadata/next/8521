@@ -1,0 +1,46 @@
+{
+  "name": "Man #8521",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/8522.png",
+  "dna": "af1caf6b8e4fd707ae63eecca45c993a560d6663",
+  "edition": 8522,
+  "date": 1642519511192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nightbreak"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Silver Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

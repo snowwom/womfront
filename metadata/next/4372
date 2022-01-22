@@ -1,0 +1,46 @@
+{
+  "name": "Man #4372",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/4373.png",
+  "dna": "ccd9017649ab246a55bfd0be9a0552efcbb54b6b",
+  "edition": 4373,
+  "date": 1642518899358,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alpha Energy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tee"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Diamond Ear Stud"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Man #5080",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/5081.png",
+  "dna": "6d7649f726df6b172206b2f8575296546162ac5e",
+  "edition": 5081,
+  "date": 1642518976309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gi"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Norris"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Silver Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "ManDonalds Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

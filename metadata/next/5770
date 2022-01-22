@@ -1,0 +1,46 @@
+{
+  "name": "Man #5770",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/5771.png",
+  "dna": "c57c97dbd926baa44f7b56f728b517e956f2fcb7",
+  "edition": 5771,
+  "date": 1642519055442,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Colorshift"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Suit"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Black Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Man Cap"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Diamond Ear Stud"
+    }
+  ]
+}

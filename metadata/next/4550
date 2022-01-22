@@ -1,0 +1,46 @@
+{
+  "name": "Man #4550",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/4551.png",
+  "dna": "67eb8119201e9b23b092492fcd0962ae55078930",
+  "edition": 4551,
+  "date": 1642518918160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orb"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "King Size"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chad Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Fieri"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Silver Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black gm Bucket"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Man #8090",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/8091.png",
+  "dna": "b34032b5e829bac8e8b7c738e72c88424b78c302",
+  "edition": 8091,
+  "date": 1642519444685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Dot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tank Top Stringer"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zyzz"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Black Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dat Green Wool Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

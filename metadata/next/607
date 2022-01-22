@@ -1,0 +1,46 @@
+{
+  "name": "Man #607",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/608.png",
+  "dna": "855606294e0d2ccc91734b843c78b9e3ff31c6d4",
+  "edition": 608,
+  "date": 1642518561861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LFG"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Collar"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Norris"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild White"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Black Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

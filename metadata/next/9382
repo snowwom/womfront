@@ -1,0 +1,46 @@
+{
+  "name": "Man #9382",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/9383.png",
+  "dna": "c0f8bd5a0121ed5358bc44a28b0ef1506630218b",
+  "edition": 9383,
+  "date": 1642519668840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spotlight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tank Top Stringer"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Fieri"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wraparounds White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Baseball Cap"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

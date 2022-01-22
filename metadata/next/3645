@@ -1,0 +1,46 @@
+{
+  "name": "Man #3645",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/3646.png",
+  "dna": "69c4ca100061e3852b5b8a48f0265482ae995f39",
+  "edition": 3646,
+  "date": 1642518829823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Serene"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Swanson"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Chadstyle"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

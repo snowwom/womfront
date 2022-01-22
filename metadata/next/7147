@@ -1,0 +1,46 @@
+{
+  "name": "Man #7147",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/7148.png",
+  "dna": "5e287c26c5d1f363f4e7043be9d0fae58eaa7fae",
+  "edition": 7148,
+  "date": 1642519270466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orb"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hairy Manly Man"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Hardrock"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yeezee"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Man Cap"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

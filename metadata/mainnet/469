@@ -1,0 +1,46 @@
+{
+  "name": "Man #469",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/470.png",
+  "dna": "270f3e58bd9e01f9eb3650ef4a7c31a93ee9d854",
+  "edition": 470,
+  "date": 1642518550431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Serene"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Tee"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Bravo"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black gm Bucket"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Diamond Ear Stud"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Man #1839",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/1840.png",
+  "dna": "5aa24e7a5307f8c0041eaed7764cc4cda326f099",
+  "edition": 1840,
+  "date": 1642518666052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alpha Energy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tank Top"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yeezee"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Silver Aviators"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Brown Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

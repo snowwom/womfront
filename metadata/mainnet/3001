@@ -1,0 +1,46 @@
+{
+  "name": "Man #3001",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/3002.png",
+  "dna": "a703b1a9d34039e80f8310f11dc2dcdbfc9b59ee",
+  "edition": 3002,
+  "date": 1642518769632,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spotlight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tank Top"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Van Dyke"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glorious Baldness"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "ManDonalds Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

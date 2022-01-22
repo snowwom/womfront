@@ -1,0 +1,46 @@
+{
+  "name": "Man #385",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/386.png",
+  "dna": "2f831d067e0e49526c0bd05e8b52a68413ecf2b0",
+  "edition": 386,
+  "date": 1642518543460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunrise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Vitiligo"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Chadstyle"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Snake Shades"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Headband"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Gold Nose Stud"
+    }
+  ]
+}

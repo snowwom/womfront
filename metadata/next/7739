@@ -1,0 +1,46 @@
+{
+  "name": "Man #7739",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/7740.png",
+  "dna": "abfa6f8c95e3d3efa82bdfd2ff4288fa22beda45",
+  "edition": 7740,
+  "date": 1642519383031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Serene"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Collar"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Power"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Man #247",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/248.png",
+  "dna": "f4958f356aafacbf1ea832507fbc9c9354ab5c31",
+  "edition": 248,
+  "date": 1642518531966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LFG"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Van Dyke"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Chadstyle"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wraparounds White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dat Green Wool Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

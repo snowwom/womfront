@@ -1,0 +1,46 @@
+{
+  "name": "Man #7805",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/7806.png",
+  "dna": "0ddc4d8f5b7a73a8ba8cb3be2d0c729b8125c540",
+  "edition": 7806,
+  "date": 1642519397074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Dot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gray Hypebeast"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Silver Fox"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Lennon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Orange gm Bucket"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

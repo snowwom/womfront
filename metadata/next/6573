@@ -1,0 +1,46 @@
+{
+  "name": "Man #6573",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/6574.png",
+  "dna": "597932a38e6c75ff65e2515f4c9b2339c450b8ee",
+  "edition": 6574,
+  "date": 1642519183709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Tank Top"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radical"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Lennon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Orange gm Bucket"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

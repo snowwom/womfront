@@ -1,0 +1,46 @@
+{
+  "name": "Man #8539",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/8540.png",
+  "dna": "3a2114bde1ec6ec266b03a4c72436c536e4d4fe5",
+  "edition": 8540,
+  "date": 1642519513650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Denim Jacket"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Guy Fieri"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zyzz"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Yeezy Shades"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gray Headband"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
+}

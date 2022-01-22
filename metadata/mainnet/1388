@@ -1,0 +1,46 @@
+{
+  "name": "Man #1388",
+  "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/1389.png",
+  "dna": "eee2d4e9bca5503e632ad3ed6c0b3e96ba6dd47a",
+  "edition": 1389,
+  "date": 1642518627133,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nightbreak"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gi"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Swanson"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Silver Fox"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black gm Bucket"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Nose Ring"
+    }
+  ]
+}
