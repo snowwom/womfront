@@ -132,7 +132,7 @@ window.open("https://twitter.com/NFTWorldOfMen", '_blank');
 }
 
 async function discord(){
-    window.open("https://discord.gg/hYbH6MeX", '_blank');
+    window.open("https://discord.gg/5BXBrpn5cS", '_blank');
     }
 
 async function etherscanA(){
