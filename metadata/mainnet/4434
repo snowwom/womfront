@@ -1,9 +1,46 @@
 {
   "name": "Man #4434",
   "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
-  "image": "ipfs://QmYp6VpDPiy6Jf8jp512P5MwbVVUKU1m86FSu2a7n5K7Hc",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/4435.png",
   "dna": "50c1437c40a6c05308c836c45071b0d68c5978e1",
   "edition": 4435,
   "date": 1642518906151,
-  "attributes": "[{\"trait_type\": \"Background\",\"value\": \"placeholder\"}]"
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spotlight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tee"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Glorious Baldness"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dat Green Wool Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "None"
+    }
+  ]
 }

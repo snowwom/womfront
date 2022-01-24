@@ -1,9 +1,46 @@
 {
   "name": "Man #4424",
   "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
-  "image": "ipfs://QmYp6VpDPiy6Jf8jp512P5MwbVVUKU1m86FSu2a7n5K7Hc",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/4425.png",
   "dna": "ab4af39f6a50d57c309e7cf74343c4d4303d0b98",
   "edition": 4425,
   "date": 1642518905208,
-  "attributes": "[{\"trait_type\": \"Background\",\"value\": \"placeholder\"}]"
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunrise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Button Down Shirt"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Soul Patch"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Fieri"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Brown Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Gold Nose Stud"
+    }
+  ]
 }
