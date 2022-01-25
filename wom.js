@@ -24,7 +24,7 @@ async function connectWallet() {
     account = await getAccount();
     $("#connectWallet").text(account.substring(0, 10)+"...");
     remainingSupply = await remainingSupply();
-    document.getElementById("amountLeft").innerHTML = "10k LIMIT, " + remainingSupply + " REMAINING";
+    document.getElementById("amountLeft").innerHTML = "10k LIMIT, " + (remainingSupply - 5000) + " REMAINING";
 }
 
 async function mintFeeInWei() {
