@@ -1,9 +1,46 @@
 {
   "name": "Man #4513",
   "description": "World of Men: 10,000 unique, cool and diverse Men living on the Blockchain.",
-  "image": "ipfs://QmYp6VpDPiy6Jf8jp512P5MwbVVUKU1m86FSu2a7n5K7Hc",
+  "image": "ipfs://QmQyH8V1ydMR32oSbokRa4dY3RaaMRKkkdHnJr9dJqW2oC/4514.png",
   "dna": "c7b38b0a561efdf82ff874021f98ef997bed8466",
   "edition": 4514,
   "date": 1642518914439,
-  "attributes": "[{\"trait_type\": \"Background\",\"value\": \"placeholder\"}]"
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Serene"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Very Light"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Tee"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "The Swanson"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "ManDonalds Hat"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Jewellery",
+      "value": "Bling Chain"
+    }
+  ]
 }
